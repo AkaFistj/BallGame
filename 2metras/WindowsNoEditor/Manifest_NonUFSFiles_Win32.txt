@@ -1,0 +1,17 @@
+Engine/Binaries/Win32/UE4Game.exe	2018-12-05T13:36:02.694Z
+Engine/Extras/Redist/en-us/UE4PrereqSetup_x86.exe	2018-12-05T13:43:38.334Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win32/OVRPlugin.dll	2018-12-05T13:35:35.853Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/PxFoundationPROFILE_x86.dll	2018-12-05T13:35:39.021Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/PxPvdSDKPROFILE_x86.dll	2018-12-05T13:35:39.071Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/PhysX3PROFILE_x86.dll	2018-12-05T13:35:38.813Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/PhysX3CookingPROFILE_x86.dll	2018-12-05T13:35:38.776Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/PhysX3CommonPROFILE_x86.dll	2018-12-05T13:35:38.462Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/APEX_ClothingPROFILE_x86.dll	2018-12-05T13:35:37.735Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/APEX_LegacyPROFILE_x86.dll	2018-12-05T13:35:38.005Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/ApexFrameworkPROFILE_x86.dll	2018-12-05T13:35:38.216Z
+Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/NvClothPROFILE_x86.dll	2018-12-05T13:35:38.294Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win32/openvr_api.dll	2018-12-05T13:35:36.451Z
+Engine/Binaries/ThirdParty/Ogg/Win32/VS2015/libogg.dll	2018-12-05T13:35:36.253Z
+Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbis.dll	2018-12-05T13:35:59.527Z
+Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbisfile.dll	2018-12-05T13:35:59.539Z
+Ground1.exe	2018-12-14T12:59:05.691Z
